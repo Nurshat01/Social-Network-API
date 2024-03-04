@@ -13,7 +13,7 @@ This API is designed for a social media startup and is built to handle large amo
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:https://github.com/Nurshat01/Social-Network-API.git
 
 
 ## Usage
@@ -39,3 +39,11 @@ This API is designed for a social media startup and is built to handle large amo
 - POST `/api/users/:userId/friends/:friendId`: Add a friend to a user's friend list.
 - DELETE `/api/users/:userId/friends/:friendId`: Remove a friend from a user's friend list.
 
+## Postman View 
+![alt text](<postman view/image.png>)
+![alt text](<postman view/Addone.png>)
+![alt text](<postman view/Create user01.png>)
+![alt text](<postman view/Create user02.png>)
+![alt text](<postman view/Create user03.png>)
+![alt text](<postman view/Get user by Id.png>)
+![alt text](<postman view/Give a Thoutht.png>)
