@@ -50,3 +50,4 @@ link: https://1drv.ms/v/s!At889SuyUenyiTs-wxFPvfVZxhVF?e=rwyKtk
 ![alt text](<postman view/Get user by Id.png>)
 ![alt text](<postman view/Give a Thoutht.png>)
 ![alt text](<postman view/Reactions.png>)
+![alt text](<postman view/Remove.png>)
