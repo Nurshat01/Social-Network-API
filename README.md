@@ -47,3 +47,4 @@ This API is designed for a social media startup and is built to handle large amo
 ![alt text](<postman view/Create user03.png>)
 ![alt text](<postman view/Get user by Id.png>)
 ![alt text](<postman view/Give a Thoutht.png>)
+![alt text](<postman view/Reactions.png>)
