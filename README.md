@@ -15,6 +15,8 @@ This API is designed for a social media startup and is built to handle large amo
 
 1. Clone the repository:https://github.com/Nurshat01/Social-Network-API.git
 
+## video walkthrough
+link: https://1drv.ms/v/s!At889SuyUenyiTs-wxFPvfVZxhVF?e=rwyKtk
 
 ## Usage
 
